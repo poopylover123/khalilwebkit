@@ -1,6 +1,6 @@
 <div align="center">
 
-# WebKitty
+# khalil webkit
 
 <img src="includes/assets/icons/webkitty.svg" width="220" alt="WebKitty Logo">
 
