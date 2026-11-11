@@ -1,0 +1,9 @@
+KHALIL WEBKIT — CUSTOMIZED INTERFACE
+
+This is a visual rebrand of the WebKitty source supplied by the user. Original project files, credits, and license are retained. Only page branding and presentation styles were changed.
+
+To preview locally, open a terminal in this folder and run:
+  py -m http.server 8000
+Then visit http://localhost:8000
+
+Keep the terminal window open while previewing.
